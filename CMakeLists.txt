@@ -17,6 +17,24 @@ add_executable(escultor
   sculptor.cpp
   sculptor.h
   voxel.h
+  figurageometrica.cpp
+  figurageometrica.h
+  putvoxel.cpp
+  putvoxel.h
+  cutvoxel.cpp
+  cutvoxel.h
+  putbox.cpp
+  putbox.h
+  cutbox.cpp
+  cutbox.h
+  putsphere.cpp
+  putsphere.h
+  cutsphere.cpp
+  cutsphere.h
+  putellipsoid.cpp
+  putellipsoid.h
+  cutellipsoid.cpp
+  cutellipsoid.h
 )
 target_link_libraries(escultor Qt${QT_VERSION_MAJOR}::Core)
 

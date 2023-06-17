@@ -1,15 +1,21 @@
 #include "putvoxel.h"
-#include <iostream>
 #include "sculptor.h"
 
-putvoxel::putvoxel()
-{
+putvoxel::putvoxel(){
 
 }
+
+putvoxel::putvoxel(int x, int y, int z, int r, int g, int b, int a){
+    this->x = x;
+    this->y = y;
+    this->z = z;
+    this->r = r;
+    this->g = g;
+    this->b = b;
+    this->a = a;
+}
+
 void putvoxel::draw(Sculptor &t){
-    t.v[x][y][z].show = true;
-    t.v[x][y][z].r = r;
-    t.v[x][y][z].g = g;
-    t.v[x][y][z].b = b;
-    t.v[x][y][z].a = a;
+    t.setColor(r,g,b,a);
+    t.putVoxel(x,y,z);
 }

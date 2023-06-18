@@ -4,21 +4,17 @@
 #include <string>
 #include "FiguraGeometrica.h"
 
-class LerDados
-{
+class LerDados{
+    protected:
+        int lar, alt, prof;
+        float r,g,b,a;
     public:
         LerDados();
-        //virtual ~LERDADOS(); // Como o vector já tem o destrutor, não precisamos declará-lo
 
-        vector<FiguraGeometrica*> parse(string filename);
-        int getDx();
-        int getDy();
-        int getDz();
-
-    protected:
-        int dx,dy,dz;
-        float r,g,b,a;
-    private:
+        vector<FiguraGeometrica*> parse(string arquivo);
+        int largura();
+        int altura();
+        int profundidade();
 };
 
 #endif // LERDADOS_H

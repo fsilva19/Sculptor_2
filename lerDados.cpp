@@ -26,7 +26,7 @@ int main() {
         // Laço abaixo identifica qual a função que está sendo solicitada no arquivo. 
         for(size_t i = 0; i < linhas.size(); i++){
             auto funcao= linhas[i][0];
-            if (funcao == "sculptor"){
+            if (funcao == "dim"){
             
             }
             if (funcao == "putvoxel"){

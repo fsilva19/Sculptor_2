@@ -1,0 +1,2 @@
+dim 10 10 9
+putvoxel 3 3 5

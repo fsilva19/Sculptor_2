@@ -14,6 +14,10 @@
 #include "cutellipsoid.h"
 
 
+LerDados::LerDados(){
+
+}
+
 vector<FiguraGeometrica*> LerDados::parse(string arquivo){
     std::vector<FiguraGeometrica*> linhas; // cria um vector de ponteiros para FiguraGeometrica
     std::ifstream file; //cria a chamada do file
@@ -30,6 +34,7 @@ vector<FiguraGeometrica*> LerDados::parse(string arquivo){
 
     while(file.good()){
         getline(file, t);
+        ino.clear();
         ino.str(t);
         ino >> comparacao;
 

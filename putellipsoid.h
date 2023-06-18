@@ -6,7 +6,7 @@
 
 
 class PutEllipsoid: public FiguraGeometrica{
-    private:
+    protected:
         int xcenter,ycenter,zcenter,rx,ry,rz;
 
     public:

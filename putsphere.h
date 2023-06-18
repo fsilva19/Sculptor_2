@@ -1,11 +1,12 @@
 #ifndef PUTSPHERE_H
 #define PUTSPHERE_H
+
 #include "sculptor.h"
 #include "FiguraGeometrica.h"
 
 
 class PutSphere: public FiguraGeometrica{
-    private:
+    protected:
         int xcenter,ycenter,zcenter,radius;
     public:
         PutSphere();

@@ -6,7 +6,7 @@
 
 
 class CutSphere: public FiguraGeometrica{
-    private:
+    protected:
         int xcenter,ycenter,zcenter,radius;
     public:
         CutSphere();

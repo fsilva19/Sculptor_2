@@ -1,5 +1,6 @@
 #ifndef CUTBOX_H
 #define CUTBOX_H
+
 #include "sculptor.h"
 #include "FiguraGeometrica.h"
 

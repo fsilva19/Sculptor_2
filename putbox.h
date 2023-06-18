@@ -4,8 +4,8 @@
 #include "sculptor.h"
 #include "FiguraGeometrica.h"
 
-class PutBox:public FiguraGeometrica{
-    private:
+class PutBox: public FiguraGeometrica{
+    protected:
         int x0,x1,y0,y1,z0,z1;
     public:
         PutBox();

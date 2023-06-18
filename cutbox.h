@@ -1,6 +1,6 @@
 #ifndef CUTBOX_H
 #define CUTBOX_H
-#include "Sculptor.h"
+#include "sculptor.h"
 #include "FiguraGeometrica.h"
 
 class CutBox : public FiguraGeometrica{

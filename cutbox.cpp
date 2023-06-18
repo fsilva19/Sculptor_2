@@ -1,4 +1,4 @@
-#include "CutBox.h"
+#include "cutbox.h"
 
 CutBox::CutBox(){
 

@@ -1,7 +1,7 @@
 #ifndef PUTBOX_H
 #define PUTBOX_H
 
-#include "Sculptor.h"
+#include "sculptor.h"
 #include "FiguraGeometrica.h"
 
 class PutBox:public FiguraGeometrica{

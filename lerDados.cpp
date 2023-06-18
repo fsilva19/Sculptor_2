@@ -1,12 +1,20 @@
+#include "lerDados.h"
 #include <fstream>
 #include <iostream>
 #include <sstream>
 #include <vector>
+#include "sculptor.h"
+#include "putvoxel.h"
+#include "cutvoxel.h"
+#include "putbox.h"
+#include "cutbox.h"
+#include "putsphere.h"
+#include "putellipsoid.h"
+#include "cutellipsoid.h"
 
 int main() {
     std::ifstream arquivo("arquivo.txt");  // Abre o arquivo para leitura
     std::vector<std::vector<std::string>> linhas;
-    
     if (arquivo.is_open()) {
         std::string linha;
 

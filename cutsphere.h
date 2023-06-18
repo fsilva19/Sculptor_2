@@ -1,7 +1,7 @@
 #ifndef CUTSPHERE_H
 #define CUTSPHERE_H
 
-#include "Sculptor.h"
+#include "sculptor.h"
 #include "FiguraGeometrica.h"
 
 

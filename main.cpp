@@ -2,13 +2,13 @@
 #include <iostream>
 #include <fstream>
 #include "sculptor.h"
-
+#include "lerDados.h"
 
 using namespace std;
 
 int main()
-{
-  
+{   
+    
     Sculptor sculptor(20, 20, 20);
 
     // Definição das cores

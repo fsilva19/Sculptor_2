@@ -1,6 +1,6 @@
 #ifndef PUTSPHERE_H
 #define PUTSPHERE_H
-#include "Sculptor.h"
+#include "sculptor.h"
 #include "FiguraGeometrica.h"
 
 

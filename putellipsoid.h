@@ -1,7 +1,7 @@
 #ifndef PUTELLIPSOID_H
 #define PUTELLIPSOID_H
 
-#include "Sculptor.h"
+#include "sculptor.h"
 #include "FiguraGeometrica.h"
 
 

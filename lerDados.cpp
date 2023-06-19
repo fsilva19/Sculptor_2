@@ -21,17 +21,19 @@ LerDados::LerDados(){
 
 }
 
-vector<FiguraGeometrica*> LerDados::parse(string arquivo){
+vector<FiguraGeometrica*> LerDados::parse(string filename){
 
     vector<FiguraGeometrica*> linhas; // cria um vector de ponteiros para FiguraGeometrica
+
+    ifstream filer(filename); //cria a chamada do filer
+
     string t, comparacao;
-    ifstream filer; //cria a chamada do filer
     stringstream ino;
 
-    filer.open(arquivo.c_str()); //abre o arquivo de variável "arquivo"
+    //filer.open(arquivo.c_str()); //abre o arquivo de variável "arquivo"
 
     if(!filer.is_open()){ //testa se tem erro
-        cout << "O arquivo '" << arquivo << "' apresentou erro!" << endl;
+        cout << "O arquivo '" << filename << "' apresentou erro!" << endl;
         exit(0);
     }
 
@@ -88,9 +90,10 @@ vector<FiguraGeometrica*> LerDados::parse(string arquivo){
                 }
             }
         }
+        filer.close();
+        cout << "Arquivo gravado com sucesso!" << endl;
+
     }
-    filer.close();
-    cout << "Arquivo gravado com sucesso!" << endl;
     return(linhas);
 }
 

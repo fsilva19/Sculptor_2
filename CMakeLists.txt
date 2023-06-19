@@ -37,6 +37,7 @@ add_executable(escultor
   cutellipsoid.h
   lerDados.cpp
   lerDados.h
+  texto.txt
 )
 target_link_libraries(escultor Qt${QT_VERSION_MAJOR}::Core)
 

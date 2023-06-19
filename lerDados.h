@@ -11,7 +11,7 @@ class LerDados{
     public:
         LerDados();
 
-        vector<FiguraGeometrica*> parse(string arquivo);
+        vector<FiguraGeometrica*> parse(string filename);
         int largura();
         int altura();
         int profundidade();

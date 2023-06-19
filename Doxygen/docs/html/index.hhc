@@ -1,0 +1,385 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Sculptor"><param name="Local" value="md__r_e_a_d_m_e.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Scculptor_2"><param name="Local" value="md__r_e_a_d_m_e.html#autotoc_md1"><param name="ImageNumber" value="11"></OBJECT>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Classes"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Lista de Classes"><param name="Local" value="annotated.html#top"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="CutBox"><param name="Local" value="class_cut_box.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CutBox"><param name="Local" value="class_cut_box.html#a3342d96941406dff02b06869bf4e2a6a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CutBox"><param name="Local" value="class_cut_box.html#a66d4f54307d42a20c7ad8aa860ede5bf"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CutBox"><param name="Local" value="class_cut_box.html#a0e7e856f22e31926719bef5a69685051"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="draw"><param name="Local" value="class_cut_box.html#a01216b04bf5a2d01ce1fb89f3fa62a46"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="CutEllipsoid"><param name="Local" value="class_cut_ellipsoid.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CutEllipsoid"><param name="Local" value="class_cut_ellipsoid.html#a3ac354ac0769c553c1a9ffe7e30fea69"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CutEllipsoid"><param name="Local" value="class_cut_ellipsoid.html#a15c04713f9df8ba34d971fe946f728a5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CutEllipsoid"><param name="Local" value="class_cut_ellipsoid.html#a341bcf037ada67c4727857b467d7788b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="draw"><param name="Local" value="class_cut_ellipsoid.html#a7110c3cd9dc76bd09ec259b429a3e532"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="rx"><param name="Local" value="class_cut_ellipsoid.html#a5d2ee1baae0313b76621fb57c317c2f0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ry"><param name="Local" value="class_cut_ellipsoid.html#a05d0bb0ec91e61d53d0b952bb8d733f2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="rz"><param name="Local" value="class_cut_ellipsoid.html#aa47df0d08db6ae887e77b13ef142ade1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="xcenter"><param name="Local" value="class_cut_ellipsoid.html#a370c6da160f24d68270f8964e4579750"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ycenter"><param name="Local" value="class_cut_ellipsoid.html#aedef6b2ff0039d457490f216db6363e2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="zcenter"><param name="Local" value="class_cut_ellipsoid.html#adf1fbdd06519db7c450a9190e8ffd858"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="CutSphere"><param name="Local" value="class_cut_sphere.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CutSphere"><param name="Local" value="class_cut_sphere.html#a7456bf14393217aaf939f90a18a92b2f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CutSphere"><param name="Local" value="class_cut_sphere.html#a9314c0e7e18f0e488cce4d4b2fbb8ae7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CutSphere"><param name="Local" value="class_cut_sphere.html#a12b9ccb665a11db650b47fedab71fddf"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="draw"><param name="Local" value="class_cut_sphere.html#ad62239c047f0817ba6fd4b85ae2eae42"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="radius"><param name="Local" value="class_cut_sphere.html#a1952c3bad1eae06bff6776292381b4ed"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="xcenter"><param name="Local" value="class_cut_sphere.html#a9b02dc65220b2e2eb2d97c0ec282375a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ycenter"><param name="Local" value="class_cut_sphere.html#adf21bbf750b8e318db9a02786881542e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="zcenter"><param name="Local" value="class_cut_sphere.html#a06dd02da6f637b0de55d2e02aeb3b9af"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="CutVoxel"><param name="Local" value="class_cut_voxel.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CutVoxel"><param name="Local" value="class_cut_voxel.html#a6d26309e9172e6ca1b3be99c0800b3d5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~CutVoxel"><param name="Local" value="class_cut_voxel.html#a7f5eb61ed9b3410a59e55e7815989a0b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CutVoxel"><param name="Local" value="class_cut_voxel.html#a32d12f653ebb96da8c3aa62994692bad"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="draw"><param name="Local" value="class_cut_voxel.html#a4619616e021723dccaf5c7cf12164e01"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="x"><param name="Local" value="class_cut_voxel.html#ae7338462b96d9f85b844d4c927765213"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="y"><param name="Local" value="class_cut_voxel.html#ae62d619cb2e91cddc1cd73053b1afc89"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="z"><param name="Local" value="class_cut_voxel.html#a614f25963845556b8a105f14dddc1e98"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="FiguraGeometrica"><param name="Local" value="class_figura_geometrica.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="FiguraGeometrica"><param name="Local" value="class_figura_geometrica.html#a81d7c7efaea511e60a15f5a363138dd9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~FiguraGeometrica"><param name="Local" value="class_figura_geometrica.html#ad13b9bccf1b14f6b9fbc662aad61ffd1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="draw"><param name="Local" value="class_figura_geometrica.html#a34585fd7c0bd7378fc69c4ee208e676c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="a"><param name="Local" value="class_figura_geometrica.html#ae7c8a027fcec3c357265b90458a4d165"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="b"><param name="Local" value="class_figura_geometrica.html#a25e5d6c21410103c25ec55c0117dac0d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="g"><param name="Local" value="class_figura_geometrica.html#a51930549bcb90d016b824f10f95df355"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="r"><param name="Local" value="class_figura_geometrica.html#a0a4f57efb1a6c525c8aeee34c92e7eab"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LerDados"><param name="Local" value="class_ler_dados.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LerDados"><param name="Local" value="class_ler_dados.html#a0d606d40a67c947f8c8747938ff04f95"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="altura"><param name="Local" value="class_ler_dados.html#a85e2e12ae6805c1c46d94cab5d8d020e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="largura"><param name="Local" value="class_ler_dados.html#a48036267d737c9e1b444a02d0f583c0f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="parse"><param name="Local" value="class_ler_dados.html#ab19897b28cbf06e986126ed9bdbe66d5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="profundidade"><param name="Local" value="class_ler_dados.html#a1a918eceee37e0063e314e6307681025"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="a"><param name="Local" value="class_ler_dados.html#a78b7dfd6c4c8f35dc58efab9d4419805"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="alt"><param name="Local" value="class_ler_dados.html#a8113b681c5e2354aee7e49cd3d6c1a25"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="b"><param name="Local" value="class_ler_dados.html#a9f307e8227cf771f576a9a5b32614d0a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="g"><param name="Local" value="class_ler_dados.html#a902f5460051ef32219a4fb7f95ed37fc"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="lar"><param name="Local" value="class_ler_dados.html#a72a5b08c824778070fb441b2ebae56c8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="prof"><param name="Local" value="class_ler_dados.html#a98e6422d78fe6bbd9b6296fb413fbdd4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="r"><param name="Local" value="class_ler_dados.html#af97c3460a20913fac55331a210c5a5a9"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="PutBox"><param name="Local" value="class_put_box.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PutBox"><param name="Local" value="class_put_box.html#a2e6e64762f6ee2f9f2bf83935e0517d0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~PutBox"><param name="Local" value="class_put_box.html#a030fced5c7acc62c9842e480c5729f2e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PutBox"><param name="Local" value="class_put_box.html#a0cb7487b6058969a8a015842cf3257de"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="draw"><param name="Local" value="class_put_box.html#a3caaf01d035f5a0749fd308e9a86de94"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="x0"><param name="Local" value="class_put_box.html#a61d3aac24126b01a16f9748d24642ae2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="x1"><param name="Local" value="class_put_box.html#add706addc4c81d0b25219c13fa8fc75d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="y0"><param name="Local" value="class_put_box.html#acc1b4deb4f10ebe0417e2da420e0d3d1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="y1"><param name="Local" value="class_put_box.html#a7153a65fd7cc6a387a09dbcaf1b2176c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="z0"><param name="Local" value="class_put_box.html#a2d8e98d861c2bdd96d414d5af225f91e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="z1"><param name="Local" value="class_put_box.html#a6a32b1e3333da311e22ecb177cb43fb8"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="PutEllipsoid"><param name="Local" value="class_put_ellipsoid.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PutEllipsoid"><param name="Local" value="class_put_ellipsoid.html#add900baea7a436bbadbfec83269a2e07"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~PutEllipsoid"><param name="Local" value="class_put_ellipsoid.html#a2a82dd453d32a966218d3bea49406872"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PutEllipsoid"><param name="Local" value="class_put_ellipsoid.html#a4b7bd5b2a9a879f093acf58e2c19055b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="draw"><param name="Local" value="class_put_ellipsoid.html#a961faff306dad93a4b68a35ad9c3027b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="rx"><param name="Local" value="class_put_ellipsoid.html#a01c481bb5441245c5e8e879681899d56"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ry"><param name="Local" value="class_put_ellipsoid.html#a4f4274c00346b59e57154b23df712bd4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="rz"><param name="Local" value="class_put_ellipsoid.html#aaf53d3f0093a1ab471f78da1c24a3606"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="xcenter"><param name="Local" value="class_put_ellipsoid.html#ab0bbb7252f3e0dc9d7cdd8e01df14935"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ycenter"><param name="Local" value="class_put_ellipsoid.html#a3020ba6a4020b25173756101b33e07ac"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="zcenter"><param name="Local" value="class_put_ellipsoid.html#a2cb4da28d144462b4948ea56bb966d03"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="PutSphere"><param name="Local" value="class_put_sphere.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PutSphere"><param name="Local" value="class_put_sphere.html#af398ef7421e081be31ac5a9bc258612a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~PutSphere"><param name="Local" value="class_put_sphere.html#ab1c65114a718e71349497588ccb3e04b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PutSphere"><param name="Local" value="class_put_sphere.html#aad7d38e4406ef3cd77c6fd60c0b64e43"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="draw"><param name="Local" value="class_put_sphere.html#a5105d1e171563e16c148d8f715321b24"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="radius"><param name="Local" value="class_put_sphere.html#a3593cd1d907b6d249d1be8accd8a04de"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="xcenter"><param name="Local" value="class_put_sphere.html#ab6b78fcab3261c56d7ad2368afdc9cc4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ycenter"><param name="Local" value="class_put_sphere.html#a2273d70cbc731c9521d6212248f8e807"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="zcenter"><param name="Local" value="class_put_sphere.html#a235b8425b2e1265a030c70f6c6ad7447"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="putvoxel"><param name="Local" value="classputvoxel.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="putvoxel"><param name="Local" value="classputvoxel.html#a83f35dc2e34937d90f1a24746793c8c8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~putvoxel"><param name="Local" value="classputvoxel.html#ad7e6189978d89b58f566974144bb718a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="putvoxel"><param name="Local" value="classputvoxel.html#a822be4a0c4e35fe3b5be11db86d9ecaa"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="draw"><param name="Local" value="classputvoxel.html#a877ba73517042a646916c0a9691b7aee"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="a"><param name="Local" value="classputvoxel.html#a061a46f29039a6a81a94045e4b8b8217"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="b"><param name="Local" value="classputvoxel.html#ae6b55a7a1733504cfca51a9c9987efd2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="g"><param name="Local" value="classputvoxel.html#a7808172e5739cff146f13645b7de0cc1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="r"><param name="Local" value="classputvoxel.html#a06c5e3825dd162e410ea7a27a32b16b8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="x"><param name="Local" value="classputvoxel.html#afcb293a7f8b91465388fac56d8089616"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="y"><param name="Local" value="classputvoxel.html#ab890408eb2553893e8a5b5581a882718"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="z"><param name="Local" value="classputvoxel.html#a649a36395058ebc2266349c1f32684ca"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Sculptor"><param name="Local" value="class_sculptor.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Sculptor"><param name="Local" value="class_sculptor.html#a014e3ef5517bf0e9d9e14486b6ac6433"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~Sculptor"><param name="Local" value="class_sculptor.html#a8f159bf97458326f16d2e238e11be7ff"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="cutBox"><param name="Local" value="class_sculptor.html#aa84a1b12b09e9e103fc8d78f8d1bc00f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="cutEllipsoid"><param name="Local" value="class_sculptor.html#a18d2922c111c4c13653ee07d878151ad"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="cutSphere"><param name="Local" value="class_sculptor.html#a67ab8c0ba5116adb8af1d01ad373ac15"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="cutVoxel"><param name="Local" value="class_sculptor.html#ad9d714a35fc8ae16d06eb5df37c3493c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="putBox"><param name="Local" value="class_sculptor.html#a311ad7a0fb83fc67ac1f378be8e99fe1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="putEllipsoid"><param name="Local" value="class_sculptor.html#a093615b0c2b9b3a17a56300b9b939f39"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="putSphere"><param name="Local" value="class_sculptor.html#a794a2b6ee8fc8098fd6150cb46101fc6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="putVoxel"><param name="Local" value="class_sculptor.html#a4bdea3048b419d58e93074060eaa7b52"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setColor"><param name="Local" value="class_sculptor.html#a4351c930a07887e96d4fdbf251a7867e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="writeOFF"><param name="Local" value="class_sculptor.html#a58cb72d22001a5034f15383ca983830c"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Voxel"><param name="Local" value="struct_voxel.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="a"><param name="Local" value="struct_voxel.html#a3ce2579eb0a9f09a07112ce7498a638e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="b"><param name="Local" value="struct_voxel.html#a5cd8432b1d7d0fd8b79e0fc7d10373a8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="g"><param name="Local" value="struct_voxel.html#a27c0da1ed2ff430401d23ff171612a73"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="r"><param name="Local" value="struct_voxel.html#a06872ec79b836120b551a848968c0f1b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="show"><param name="Local" value="struct_voxel.html#a7daa6a3073416618d1365e0fc38f152f"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="�ndice dos Componentes"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Hierarquia de Classes"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="FiguraGeometrica"><param name="Local" value="class_figura_geometrica.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CutBox"><param name="Local" value="class_cut_box.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CutEllipsoid"><param name="Local" value="class_cut_ellipsoid.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CutSphere"><param name="Local" value="class_cut_sphere.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CutVoxel"><param name="Local" value="class_cut_voxel.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PutBox"><param name="Local" value="class_put_box.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PutEllipsoid"><param name="Local" value="class_put_ellipsoid.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PutSphere"><param name="Local" value="class_put_sphere.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="putvoxel"><param name="Local" value="classputvoxel.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LerDados"><param name="Local" value="class_ler_dados.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Sculptor"><param name="Local" value="class_sculptor.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Voxel"><param name="Local" value="struct_voxel.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Membros de classe"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Todos"><param name="Local" value="functions.html#top"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Funções"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Vari�veis"><param name="Local" value="functions_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Arquivos"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Lista de Arquivos"><param name="Local" value="files.html#top"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="cutbox.cpp"><param name="Local" value="cutbox_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="cutbox.h"><param name="Local" value="cutbox_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CutBox"><param name="Local" value="class_cut_box.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CutBox"><param name="Local" value="class_cut_box.html#a3342d96941406dff02b06869bf4e2a6a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~CutBox"><param name="Local" value="class_cut_box.html#a66d4f54307d42a20c7ad8aa860ede5bf"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CutBox"><param name="Local" value="class_cut_box.html#a0e7e856f22e31926719bef5a69685051"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="draw"><param name="Local" value="class_cut_box.html#a01216b04bf5a2d01ce1fb89f3fa62a46"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="cutellipsoid.cpp"><param name="Local" value="cutellipsoid_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="cutellipsoid.h"><param name="Local" value="cutellipsoid_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CutEllipsoid"><param name="Local" value="class_cut_ellipsoid.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CutEllipsoid"><param name="Local" value="class_cut_ellipsoid.html#a3ac354ac0769c553c1a9ffe7e30fea69"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~CutEllipsoid"><param name="Local" value="class_cut_ellipsoid.html#a15c04713f9df8ba34d971fe946f728a5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CutEllipsoid"><param name="Local" value="class_cut_ellipsoid.html#a341bcf037ada67c4727857b467d7788b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="draw"><param name="Local" value="class_cut_ellipsoid.html#a7110c3cd9dc76bd09ec259b429a3e532"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="rx"><param name="Local" value="class_cut_ellipsoid.html#a5d2ee1baae0313b76621fb57c317c2f0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ry"><param name="Local" value="class_cut_ellipsoid.html#a05d0bb0ec91e61d53d0b952bb8d733f2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="rz"><param name="Local" value="class_cut_ellipsoid.html#aa47df0d08db6ae887e77b13ef142ade1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="xcenter"><param name="Local" value="class_cut_ellipsoid.html#a370c6da160f24d68270f8964e4579750"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ycenter"><param name="Local" value="class_cut_ellipsoid.html#aedef6b2ff0039d457490f216db6363e2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="zcenter"><param name="Local" value="class_cut_ellipsoid.html#adf1fbdd06519db7c450a9190e8ffd858"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="cutsphere.cpp"><param name="Local" value="cutsphere_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="cutsphere.h"><param name="Local" value="cutsphere_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CutSphere"><param name="Local" value="class_cut_sphere.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CutSphere"><param name="Local" value="class_cut_sphere.html#a7456bf14393217aaf939f90a18a92b2f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~CutSphere"><param name="Local" value="class_cut_sphere.html#a9314c0e7e18f0e488cce4d4b2fbb8ae7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CutSphere"><param name="Local" value="class_cut_sphere.html#a12b9ccb665a11db650b47fedab71fddf"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="draw"><param name="Local" value="class_cut_sphere.html#ad62239c047f0817ba6fd4b85ae2eae42"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="radius"><param name="Local" value="class_cut_sphere.html#a1952c3bad1eae06bff6776292381b4ed"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="xcenter"><param name="Local" value="class_cut_sphere.html#a9b02dc65220b2e2eb2d97c0ec282375a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ycenter"><param name="Local" value="class_cut_sphere.html#adf21bbf750b8e318db9a02786881542e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="zcenter"><param name="Local" value="class_cut_sphere.html#a06dd02da6f637b0de55d2e02aeb3b9af"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="cutvoxel.cpp"><param name="Local" value="cutvoxel_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="cutvoxel.h"><param name="Local" value="cutvoxel_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CutVoxel"><param name="Local" value="class_cut_voxel.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CutVoxel"><param name="Local" value="class_cut_voxel.html#a6d26309e9172e6ca1b3be99c0800b3d5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~CutVoxel"><param name="Local" value="class_cut_voxel.html#a7f5eb61ed9b3410a59e55e7815989a0b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CutVoxel"><param name="Local" value="class_cut_voxel.html#a32d12f653ebb96da8c3aa62994692bad"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="draw"><param name="Local" value="class_cut_voxel.html#a4619616e021723dccaf5c7cf12164e01"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="x"><param name="Local" value="class_cut_voxel.html#ae7338462b96d9f85b844d4c927765213"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="y"><param name="Local" value="class_cut_voxel.html#ae62d619cb2e91cddc1cd73053b1afc89"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="z"><param name="Local" value="class_cut_voxel.html#a614f25963845556b8a105f14dddc1e98"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="figurageometrica.cpp"><param name="Local" value="figurageometrica_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="figurageometrica.h"><param name="Local" value="figurageometrica_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="FiguraGeometrica"><param name="Local" value="class_figura_geometrica.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="FiguraGeometrica"><param name="Local" value="class_figura_geometrica.html#a81d7c7efaea511e60a15f5a363138dd9"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~FiguraGeometrica"><param name="Local" value="class_figura_geometrica.html#ad13b9bccf1b14f6b9fbc662aad61ffd1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="draw"><param name="Local" value="class_figura_geometrica.html#a34585fd7c0bd7378fc69c4ee208e676c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="a"><param name="Local" value="class_figura_geometrica.html#ae7c8a027fcec3c357265b90458a4d165"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="b"><param name="Local" value="class_figura_geometrica.html#a25e5d6c21410103c25ec55c0117dac0d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="g"><param name="Local" value="class_figura_geometrica.html#a51930549bcb90d016b824f10f95df355"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="r"><param name="Local" value="class_figura_geometrica.html#a0a4f57efb1a6c525c8aeee34c92e7eab"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="lerDados.cpp"><param name="Local" value="ler_dados_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="lerDados.h"><param name="Local" value="ler_dados_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LerDados"><param name="Local" value="class_ler_dados.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LerDados"><param name="Local" value="class_ler_dados.html#a0d606d40a67c947f8c8747938ff04f95"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="altura"><param name="Local" value="class_ler_dados.html#a85e2e12ae6805c1c46d94cab5d8d020e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="largura"><param name="Local" value="class_ler_dados.html#a48036267d737c9e1b444a02d0f583c0f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="parse"><param name="Local" value="class_ler_dados.html#ab19897b28cbf06e986126ed9bdbe66d5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="profundidade"><param name="Local" value="class_ler_dados.html#a1a918eceee37e0063e314e6307681025"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="a"><param name="Local" value="class_ler_dados.html#a78b7dfd6c4c8f35dc58efab9d4419805"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="alt"><param name="Local" value="class_ler_dados.html#a8113b681c5e2354aee7e49cd3d6c1a25"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="b"><param name="Local" value="class_ler_dados.html#a9f307e8227cf771f576a9a5b32614d0a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="g"><param name="Local" value="class_ler_dados.html#a902f5460051ef32219a4fb7f95ed37fc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="lar"><param name="Local" value="class_ler_dados.html#a72a5b08c824778070fb441b2ebae56c8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="prof"><param name="Local" value="class_ler_dados.html#a98e6422d78fe6bbd9b6296fb413fbdd4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="r"><param name="Local" value="class_ler_dados.html#af97c3460a20913fac55331a210c5a5a9"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="main.cpp"><param name="Local" value="main_8cpp.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="main"><param name="Local" value="main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="putbox.cpp"><param name="Local" value="putbox_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="putbox.h"><param name="Local" value="putbox_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PutBox"><param name="Local" value="class_put_box.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PutBox"><param name="Local" value="class_put_box.html#a2e6e64762f6ee2f9f2bf83935e0517d0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~PutBox"><param name="Local" value="class_put_box.html#a030fced5c7acc62c9842e480c5729f2e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PutBox"><param name="Local" value="class_put_box.html#a0cb7487b6058969a8a015842cf3257de"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="draw"><param name="Local" value="class_put_box.html#a3caaf01d035f5a0749fd308e9a86de94"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="x0"><param name="Local" value="class_put_box.html#a61d3aac24126b01a16f9748d24642ae2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="x1"><param name="Local" value="class_put_box.html#add706addc4c81d0b25219c13fa8fc75d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="y0"><param name="Local" value="class_put_box.html#acc1b4deb4f10ebe0417e2da420e0d3d1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="y1"><param name="Local" value="class_put_box.html#a7153a65fd7cc6a387a09dbcaf1b2176c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="z0"><param name="Local" value="class_put_box.html#a2d8e98d861c2bdd96d414d5af225f91e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="z1"><param name="Local" value="class_put_box.html#a6a32b1e3333da311e22ecb177cb43fb8"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="putellipsoid.cpp"><param name="Local" value="putellipsoid_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="putellipsoid.h"><param name="Local" value="putellipsoid_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PutEllipsoid"><param name="Local" value="class_put_ellipsoid.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PutEllipsoid"><param name="Local" value="class_put_ellipsoid.html#add900baea7a436bbadbfec83269a2e07"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~PutEllipsoid"><param name="Local" value="class_put_ellipsoid.html#a2a82dd453d32a966218d3bea49406872"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PutEllipsoid"><param name="Local" value="class_put_ellipsoid.html#a4b7bd5b2a9a879f093acf58e2c19055b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="draw"><param name="Local" value="class_put_ellipsoid.html#a961faff306dad93a4b68a35ad9c3027b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="rx"><param name="Local" value="class_put_ellipsoid.html#a01c481bb5441245c5e8e879681899d56"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ry"><param name="Local" value="class_put_ellipsoid.html#a4f4274c00346b59e57154b23df712bd4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="rz"><param name="Local" value="class_put_ellipsoid.html#aaf53d3f0093a1ab471f78da1c24a3606"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="xcenter"><param name="Local" value="class_put_ellipsoid.html#ab0bbb7252f3e0dc9d7cdd8e01df14935"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ycenter"><param name="Local" value="class_put_ellipsoid.html#a3020ba6a4020b25173756101b33e07ac"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="zcenter"><param name="Local" value="class_put_ellipsoid.html#a2cb4da28d144462b4948ea56bb966d03"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="putsphere.cpp"><param name="Local" value="putsphere_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="putsphere.h"><param name="Local" value="putsphere_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PutSphere"><param name="Local" value="class_put_sphere.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PutSphere"><param name="Local" value="class_put_sphere.html#af398ef7421e081be31ac5a9bc258612a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~PutSphere"><param name="Local" value="class_put_sphere.html#ab1c65114a718e71349497588ccb3e04b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PutSphere"><param name="Local" value="class_put_sphere.html#aad7d38e4406ef3cd77c6fd60c0b64e43"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="draw"><param name="Local" value="class_put_sphere.html#a5105d1e171563e16c148d8f715321b24"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="radius"><param name="Local" value="class_put_sphere.html#a3593cd1d907b6d249d1be8accd8a04de"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="xcenter"><param name="Local" value="class_put_sphere.html#ab6b78fcab3261c56d7ad2368afdc9cc4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ycenter"><param name="Local" value="class_put_sphere.html#a2273d70cbc731c9521d6212248f8e807"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="zcenter"><param name="Local" value="class_put_sphere.html#a235b8425b2e1265a030c70f6c6ad7447"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="putvoxel.cpp"><param name="Local" value="putvoxel_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="putvoxel.h"><param name="Local" value="putvoxel_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="putvoxel"><param name="Local" value="classputvoxel.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="putvoxel"><param name="Local" value="classputvoxel.html#a83f35dc2e34937d90f1a24746793c8c8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~putvoxel"><param name="Local" value="classputvoxel.html#ad7e6189978d89b58f566974144bb718a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="putvoxel"><param name="Local" value="classputvoxel.html#a822be4a0c4e35fe3b5be11db86d9ecaa"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="draw"><param name="Local" value="classputvoxel.html#a877ba73517042a646916c0a9691b7aee"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="a"><param name="Local" value="classputvoxel.html#a061a46f29039a6a81a94045e4b8b8217"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="b"><param name="Local" value="classputvoxel.html#ae6b55a7a1733504cfca51a9c9987efd2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="g"><param name="Local" value="classputvoxel.html#a7808172e5739cff146f13645b7de0cc1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="r"><param name="Local" value="classputvoxel.html#a06c5e3825dd162e410ea7a27a32b16b8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="x"><param name="Local" value="classputvoxel.html#afcb293a7f8b91465388fac56d8089616"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="y"><param name="Local" value="classputvoxel.html#ab890408eb2553893e8a5b5581a882718"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="z"><param name="Local" value="classputvoxel.html#a649a36395058ebc2266349c1f32684ca"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="sculptor.cpp"><param name="Local" value="sculptor_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="sculptor.h"><param name="Local" value="sculptor_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Sculptor"><param name="Local" value="class_sculptor.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Sculptor"><param name="Local" value="class_sculptor.html#a014e3ef5517bf0e9d9e14486b6ac6433"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~Sculptor"><param name="Local" value="class_sculptor.html#a8f159bf97458326f16d2e238e11be7ff"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="cutBox"><param name="Local" value="class_sculptor.html#aa84a1b12b09e9e103fc8d78f8d1bc00f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="cutEllipsoid"><param name="Local" value="class_sculptor.html#a18d2922c111c4c13653ee07d878151ad"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="cutSphere"><param name="Local" value="class_sculptor.html#a67ab8c0ba5116adb8af1d01ad373ac15"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="cutVoxel"><param name="Local" value="class_sculptor.html#ad9d714a35fc8ae16d06eb5df37c3493c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="putBox"><param name="Local" value="class_sculptor.html#a311ad7a0fb83fc67ac1f378be8e99fe1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="putEllipsoid"><param name="Local" value="class_sculptor.html#a093615b0c2b9b3a17a56300b9b939f39"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="putSphere"><param name="Local" value="class_sculptor.html#a794a2b6ee8fc8098fd6150cb46101fc6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="putVoxel"><param name="Local" value="class_sculptor.html#a4bdea3048b419d58e93074060eaa7b52"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setColor"><param name="Local" value="class_sculptor.html#a4351c930a07887e96d4fdbf251a7867e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="writeOFF"><param name="Local" value="class_sculptor.html#a58cb72d22001a5034f15383ca983830c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="voxel.h"><param name="Local" value="voxel_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Voxel"><param name="Local" value="struct_voxel.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="a"><param name="Local" value="struct_voxel.html#a3ce2579eb0a9f09a07112ce7498a638e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="b"><param name="Local" value="struct_voxel.html#a5cd8432b1d7d0fd8b79e0fc7d10373a8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="g"><param name="Local" value="struct_voxel.html#a27c0da1ed2ff430401d23ff171612a73"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="r"><param name="Local" value="struct_voxel.html#a06872ec79b836120b551a848968c0f1b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="show"><param name="Local" value="struct_voxel.html#a7daa6a3073416618d1365e0fc38f152f"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Membros dos Arquivos"><param name="Local" value="globals.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Todos"><param name="Local" value="globals.html#top"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Funções"><param name="Local" value="globals_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>

@@ -2,8 +2,9 @@
 #include <cstdlib>
 #include <fstream>
 #include <string>
-#include "Sculptor.h"
+#include "sculptor.h"
 #include "lerDados.h"
+#include "figurageometrica.h"
 
 using namespace std;
 
@@ -16,13 +17,13 @@ int main(){
 
     teste = new Sculptor(leitura.altura(), leitura.largura(), leitura.profundidade());
 
-    for(size_t i = 0; i < linhas.size(); i++){
+    for(int i = 0; i < linhas.size(); i++){
         linhas[i] -> draw(*teste);
     }
 
     teste -> writeOFF((char*)"nave.off");
 
-    for(size_t i = 0; i < linhas.size(); i++){
+    for(int i = 0; i < linhas.size(); i++){
         delete linhas[i];
     }
 
